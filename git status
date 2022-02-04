@@ -1,0 +1,23 @@
+[33mcommit 739972aa4f3ca91a0fd2e50ceecaac7f2ce674ab[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Camilo Manrique <kamiandres2021@gmail.com>
+Date:   Thu Feb 3 21:05:41 2022 -0500
+
+     Ya los cambios estan guardados en git
+
+[33mcommit f9a761ed7ae30806c3e99815a257059068bdafc7[m
+Author: Camilo Manrique <kamiandres2021@gmail.com>
+Date:   Thu Feb 3 21:00:57 2022 -0500
+
+    Este es el primer commit de todo el curso basico de javascript
+
+[33mcommit 37a97d65ce29edf5d2e4a745305b230d9329894b[m
+Author: Camilo Manrique <kamiandres2021@gmail.com>
+Date:   Sun Jan 23 15:48:18 2022 -0500
+
+    añadimos vs.code al archivo .gitignore
+
+[33mcommit 8e2bfc6d4fe8060367a5019d17e11db4e1611312[m
+Author: kamilomanrique <96263156+kamilomanrique@users.noreply.github.com>
+Date:   Sun Jan 9 12:39:19 2022 -0500
+
+    Initial commit
